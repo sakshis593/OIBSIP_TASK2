@@ -1,0 +1,49 @@
+body{
+    font-family: 'Ysabeau', sans-serif;
+    color: white;
+    background-color: black;
+}
+p{
+    font-size: 23px;
+}
+#title{
+    text-align:center;
+}
+#small_head{
+    text-align: center;
+}
+/*.container{
+  background-image: url('https://wallpaperaccess.com/full/3044303.jpg') ;
+}*/
+.container #image{
+    background-position: center center;
+    height:50vh;
+    width:100%;
+    margin-top:50px;
+    margin-bottom: 50px;
+    display:block;
+}
+#subtitle{
+    text-align: center;
+    text-decoration: underline;
+}
+#l1{
+    position:absolute;
+    left:110px;
+    font-size:23px;
+    list-style-type: none;
+    text-decoration: underline;
+}
+.tributeinfo ul li{
+    position:absolute;
+    list-style-type:disc;
+    left:110px;
+    font-size: 23px;
+}
+#l2{
+    position:absolute;
+    left:110px;
+    font-size:23px;
+    list-style-type: none;
+    text-decoration: underline;
+}
